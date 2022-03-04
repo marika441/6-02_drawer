@@ -21,7 +21,7 @@ header .container {
 .title-block {
   flex: 1 1 auto;
 }
-.hambugger {
+.hamburger {
   flex: 0 0 32px;
   align-self: center;
   margin-left: 16px;
